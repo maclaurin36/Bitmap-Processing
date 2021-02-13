@@ -10,7 +10,7 @@
 #define FREAD_ERROR 3
 #define MALLOC_ERROR 4
 #define FWRITE_ERROR 5
-
+//bla bla bla bla
 /**
  * Parses the command line.
  *
